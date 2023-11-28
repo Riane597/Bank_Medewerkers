@@ -14,9 +14,13 @@ Requirements:
 design patterns
   - abstract factory - verschillende bankrekeningobjecten maken.
   - chain of responsibility - pass requests along when opening or closing an account
-
 ERD diagram & Flow chart
+  - flowchart.png
 JPQL queries
+  - Gebruik maken van JPQL.
 MySQL database
+  - Gebruik maken van MySQL database voor het opslaan van data.
 Registratie
+  - Create, read, update & delete van data
 Zoekfuncties
+  - select statements 
