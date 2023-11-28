@@ -15,8 +15,8 @@ design patterns
   - abstract factory - verschillende bankrekeningobjecten maken.
   - chain of responsibility - pass requests along when opening or closing an account
 
-ERD diagram & Flow chart
-JPQL queries
-MySQL database
-Registratie
-Zoekfuncties
+- ERD diagram & Flow chart
+- JPQL queries
+- MySQL database
+- Registratie
+- Zoekfuncties
